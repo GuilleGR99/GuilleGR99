@@ -16,6 +16,9 @@ Orientado a roles de ingeniería de sistemas y seguridad.
 - Redes: ROS, TCP/IP
 - Herramientas: Git, IPFS, Hardhat (uso en proyectos)
 
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GuilleGR99&layout=compact)
+
+
 
 ---
 
